@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+
+  .metamask-button {
+    padding: 10px;
+    border: 2px solid var(--teal);
+    background: var(--white);
+    display: block;
+    margin: auto;
+  }
+
+  .transaction-response {
+    background: var(--white);
+    padding: 20px;
+    margin: 20px;
+    word-break: break-all;
+    color: var(--dark);
+  }
+}
