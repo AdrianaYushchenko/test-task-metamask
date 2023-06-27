@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './index.scss';
 
-export const Index = () => {
+export const SignDataMetamask = () => {
   const [response, setResponse] = useState('');
   const message = 'Hello, Chainfuse!';
 
